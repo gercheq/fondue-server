@@ -1,0 +1,3 @@
+[submodule "frontend-grunt"]
+	path = frontend-grunt
+	url = git@github.com:gercheq/frontend-grunt.git
